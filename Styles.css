@@ -4,7 +4,7 @@ div.FirstDiv{
     background-image: linear-gradient(to right, #3a5afc, #a044ff, #f15eac);
 }
 .heading{
-    font-size: 70px;
+    font-size: 60px;
 }
 .SecondDiv{
      background-image: conic-gradient(rgb(54, 54, 233),rgb(188, 31, 160), rgb(161, 10, 161), rgb(20, 20, 211));
