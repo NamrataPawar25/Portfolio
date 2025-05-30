@@ -1,0 +1,27 @@
+div.FirstDiv{
+    height: 30px;
+    width: 38%;
+    background-image: linear-gradient(to right, #3a5afc, #a044ff, #f15eac);
+}
+.heading{
+    font-size: 70px;
+}
+.SecondDiv{
+     background-image: conic-gradient(rgb(54, 54, 233),rgb(188, 31, 160), rgb(161, 10, 161), rgb(20, 20, 211));
+}
+.gradient-text {
+    background: linear-gradient(to bottom right, rgb(247, 7, 195) 30%, rgb(0, 132, 255));
+                -webkit-background-clip: text;
+                background-clip: text;
+                color: transparent;
+}
+div.iconGradient{
+    height: 50px ;
+    width: 50px;
+    background-image: linear-gradient(to bottom right, #061871, #a044ff, #f15eac);
+}
+.projBottom{
+    height: 350px;
+    width: 100%;
+    background: linear-gradient(to bottom right, rgb(4, 18, 125), rgb(247, 7, 195));
+}
